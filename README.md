@@ -1,1 +1,1 @@
-# Image-Classification-Model-Dog-vs-Cat-
+# Image Classification Model Dog vs Cat
